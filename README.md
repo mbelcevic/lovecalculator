@@ -17,6 +17,9 @@ Output: A message is displayed based on the love score.
 ## Love Score Interpretation
 
 Score < 10 or > 90: "Your score is X, you go together like coke and mentos."
+
 Score between 40 and 50: "Your score is X, you are alright together."
+
 Other Scores: "Your score is X."
+
 
